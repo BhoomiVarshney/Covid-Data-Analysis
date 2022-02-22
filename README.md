@@ -1,3 +1,2 @@
 # Covid-Data-Analysis
-Importing libraries
-Using pandas for
+Importing libraries like pandas, numpy ,seaborn,matplotlib.
